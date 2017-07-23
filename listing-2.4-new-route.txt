@@ -1,0 +1,3 @@
+oc describe svc/app-cli
+oc expose svc/app-cli
+oc describe route/app-cli

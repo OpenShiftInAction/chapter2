@@ -1,0 +1,1 @@
+oc new-project image-uploader --display-name='Image Uploader Project'
